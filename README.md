@@ -15,7 +15,8 @@ Currently I am
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LathikaDevraj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### Get in touch 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (lathikadevraj@gmail.com)
+[![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)] (https://twitter.com/DevrajLathika)
 
 
 
