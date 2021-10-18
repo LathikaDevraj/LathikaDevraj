@@ -16,8 +16,8 @@ Currently I am
 
 ### Get in touch 
 ![lathikadevraj@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Twitter](https://img.shields.io/badge/<DevrajLathika>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![[Lathika Devraj](https://www.linkedin.com/in/lathika-devraj/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DevrajLathika)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lathika-devraj/)
 
 
 
