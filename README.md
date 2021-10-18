@@ -8,7 +8,7 @@ I am budding software developer and I am currently pursuing my undergrad in comp
 Currently I am
   * :computer: Working on something cool.
   * :mortar_board: Learning about Java servlets.
-  * :books: No rules rules.
+  * :books: Reading the book No rules rules.
 
 
 ### My Stats
